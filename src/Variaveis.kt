@@ -8,12 +8,12 @@ fun main() {
     }
 
     //VAL = imutávels
-    //VAR = mutávels
+    //VAR = mutávelss
 
-    //Inferência do Tipo
+    //Inferência do Tipo.
     val fruta = "Abacaxi"
 
-    //Declaração do tipo
+    //Declaração do tipo.
     var fruta2 = "Banana"
     println("A variável ${idade} é do tipo ${idade::class.simpleName}")
     println("A variável imutável ${fruta} é do tipo: ${fruta::class.simpleName}")
