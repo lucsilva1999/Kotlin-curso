@@ -8,7 +8,7 @@ fun main() {
     }
 
     //VAL = imutávels
-    //VAR = mutávelss
+    //VAR = mutáveis
 
     //Inferência do Tipo.
     val fruta = "Abacaxi"
